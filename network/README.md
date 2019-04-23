@@ -1,3 +1,3 @@
-# tutorial-network
+# network
 
 block
